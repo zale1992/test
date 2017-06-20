@@ -1,3 +1,2 @@
 <?php
-	echo 'Holle Git!';
-	echo 'edit1';
+  echo 'Holle Git!';
